@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/final-2025-Lemanalizadee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mppgproject" vcs="Git" />
   </component>
 </project>
